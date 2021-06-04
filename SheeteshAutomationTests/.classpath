@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jars/Selenium_Server_Standalone_Jar/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/json-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/rest-assured-common-4.3.3.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="jars/Rest_Assured_All_Jars/xml-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="jars/TestNG_Jars/jcommander-1.78.jar"/>
+	<classpathentry kind="lib" path="jars/TestNG_Jars/jquery-3.5.1.jar"/>
+	<classpathentry kind="lib" path="jars/TestNG_Jars/testng-7.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
